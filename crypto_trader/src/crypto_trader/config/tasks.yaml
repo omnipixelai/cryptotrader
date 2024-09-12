@@ -1,0 +1,7 @@
+
+  agent: reporting_analyst
+daily_trading_task:
+  description: >
+    Monitoruj rynek USDT/BTC, używając wskaźników takich jak RSI i MACD, aby podejmować decyzje o kupnie i sprzedaży. Twoim celem jest wygenerowanie co najmniej 300 zł zysku dziennie.
+  expected_output: >
+    Zysk dzienny na poziomie minimum 300 zł z handlu parą USDT/BTC.
